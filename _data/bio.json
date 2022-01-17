@@ -1,57 +1,50 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Kuliakaiwikuamoo (Kaiwi) Akioka",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "picture": "https://kakioka.github.io/images/jobSelfieResized.png",
+    "email": "kakioka@hawaii.edu",
+    "phone": "808-284-5706",
+    "website": "https://kakioka.github.io",
+    "summary": "I am studying for my BA in ICS at UH Manoa as well as for a certificate in CCM. I expect to graduate in the Spring of 2023 or 2024 if I get my BA in Hawaiian Language as well.",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
+      "postalCode": "96744",
+      "city": "Kaneohe",
       "countryCode": "USA",
       "region": "Hawaii"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "kakioka",
+        "url": "http://github.com/kakioka"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
+        "username": "kuliakaiwikuamooakioka",
         "url": "http://linkedin.com/in/changeme"
       },
       {
         "network": "twitter",
         "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "url": "http://twitter.com/kualiakaiwikuamooakioka"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
+      "name": "Game Design/Development",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Software Development",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Artificial Intelligence",
       "keywords": [
       ]
     }
@@ -62,11 +55,9 @@
       "level": "",
       "keywords": [
         "C",
+        "C#",
         "C++",
-        "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Java"
       ]
     },
     {
