@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Should I learn Javascript?
+title: Should you learn Javascript?
 # All dates must be YYYY-MM-DD format!
 date: 2022-01-18
 labels:
