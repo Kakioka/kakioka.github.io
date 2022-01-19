@@ -9,7 +9,7 @@ labels:
   - Learning
 ---
 
-<img class="ui tiny left circular floated image" src="https://kakioka.github.io/images/uncle-sam-wants-you.jpg">
+<img class="ui tiny left circular floated image" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Uncle_Sam_%28pointing_finger%29.png/1200px-Uncle_Sam_%28pointing_finger%29.png">
 
 So, you want to learn Javascript. Well let me tell you, it might be difficult, it might be grueling, it might even make you cry, or it'll be as easy as printing "Hello World" in Java. Coming from a primarily C# background, I expected Javascript to be some insanely convoluted and confusing slog through boring syntax. However, perhaps because of Freecodeacademy, or because Javascript in and of itself is more intuitive, I found it the opposite. Within 5 hours I managed to finish the course and can now say I have a basic understanding of Javascript.
 
