@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: Should I learn Javascript?
 # All dates must be YYYY-MM-DD format!
-date: 2022-18-1
+date: 2022-18-01
 labels:
   - Software Engineering
   - Learning
