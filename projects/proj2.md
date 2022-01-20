@@ -1,16 +1,16 @@
-
 ---
 layout: project
 type: project
 image: 
 title: Legolas
 permalink: 
+# All dates must be YYYY-MM-DD format!
 date: 2021-12-10
 labels:
   - C#
   - Game Development
   - Unity
-summary: A physics based bow and arrow fps
+summary: Physics based bow and arrow fps
 ---
 
 <div class="ui small rounded images">
