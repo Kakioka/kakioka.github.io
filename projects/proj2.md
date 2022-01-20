@@ -2,7 +2,7 @@
 ---
 layout: project
 type: project
-image: "https://kakioka.github.io/images/legolas_sim.png"
+image: 
 title: Legolas
 permalink: 
 # All dates must be YYYY-MM-DD format!
