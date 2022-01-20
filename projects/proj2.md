@@ -11,7 +11,7 @@ labels:
   - C#
   - Game Development
   - Unity
-summary: A physics based bow and arros fps
+summary: A physics based bow and arrow fps
 ---
 
 <div class="ui small rounded images">
