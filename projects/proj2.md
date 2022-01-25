@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: "https://kakioka.github.io/images/legolas_sim.png"
+image: ""
 title: Legolas
 permalink: 
 # All dates must be YYYY-MM-DD format!
@@ -14,7 +14,7 @@ summary: Physics based bow and arrow fps
 ---
 
 <div class="ui small rounded images">
-
+https://kakioka.github.io/images/legolas_sim.png
 </div>
 
 The idea here was to emulate Blizzard's Overwatch's Hanzo's bow and arrow mechanic in Unity. To do this I used Unity's rigidbody physics engine along with some of my own scripts.
