@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: "images/legolas_sim.png"
+image: images/legolas_sim.png
 title: Legolas
 permalink: 
 # All dates must be YYYY-MM-DD format!
