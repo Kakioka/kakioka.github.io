@@ -12,8 +12,8 @@ labels:
 
 <img class="ui tiny left circular floated image" src="https://miro.medium.com/max/885/1*uc89vQwNgfqctnZg9PMfxA.png">
 
-	A user once asked StackOverflow, "How do I undo the most recent local commits in Git?". He/she had accidentally commited the wrong file to Git6 but hadn't pushed the commit
-to the server yet. He/she asked simply, "How can I undo those commits from the local repository?". A succinct and easily understood question. He/she then went on to describe in brief the 
+	
+A user once asked StackOverflow, "How do I undo the most recent local commits in Git?". He/she had accidentally commited the wrong file to Git but hadn't pushed the commit to the server yet. He/she asked simply, "How can I undo those commits from the local repository?". A succinct and easily understood question. He/she then went on to describe in brief the 
 reason for the question, thus showing that this wasn't simply a lack of understanding of Git but a search for "a better way". 
 	This question is now one of the most voted questions on StackOverflow with 23,807 votes. It is a smart question, abiding by the tenets set forth in the reading. The answer reflects this.
 The answer provided matches the intelligence with which the question was asked. It first directly answers the question by providing a short snippet that displays how one would undo commits from the local repository
