@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: Programming and me
 # All dates must be YYYY-MM-DD format!
-date: 2022-01-19
+date: 2022-01-27
 labels:
   - Software Engineering
   - Learning
