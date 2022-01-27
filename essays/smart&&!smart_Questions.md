@@ -10,7 +10,6 @@ labels:
   - Learning
 ---
 
-##Ooh that smarts!
 <img class="ui tiny left circular floated image" src="https://miro.medium.com/max/885/1*uc89vQwNgfqctnZg9PMfxA.png">
 
 	A user once asked StackOverflow, "How do I undo the most recent local commits in Git?". He/she had accidentally commited the wrong file to Git6 but hadn't pushed the commit
@@ -22,7 +21,6 @@ while maintaining data integrity. The answerer then goes on to explain each line
 Finally, the answerer goes on to provide further resources on the topic that might aid in responding to any further questions the original asker or others who see the post might have. 
 	[This interaction](https://stackoverflow.com/questions/927358/how-do-i-undo-the-most-recent-local-commits-in-git) goes to show the power and usefulness of asking cincise and accurate questions that evoke concise and detailed answers. 
 
-##Now that doesn't...
 <img class="ui tiny left circular floated image" src="https://media-cldnry.s-nbcnews.com/image/upload/newscms/2020_02/1526900/stupid-questions-diner-today-main-200109.jpg">
 	In stark contrast is a ["question"](https://stackoverflow.com/questions/927358/how-do-i-undo-the-most-recent-local-commits-in-git) that has been viewed 7 thousand times with 303 votes over the last 6 years, and 8 months. With 0 answers whatsoever. The user begins by 
 titling their ask "Managing the lifetimes of garbage-collected objects". No question, it's unclear what the user wants. He/she then goes on to describe what he/she is doing via large blocks of code
