@@ -1,11 +1,11 @@
 ---
 layout: essay
 type: essay
-title: [Smart] && [!Smart] Questions
+title: Programming and me
 # All dates must be YYYY-MM-DD format!
-date: 2022-01-27
+date: 2022-01-19
 labels:
-  - Stack Overflow
+  - Software Engineering
   - Learning
 ---
 
