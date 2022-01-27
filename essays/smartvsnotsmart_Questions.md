@@ -5,7 +5,6 @@ title: [Smart] && [!Smart] Questions
 # All dates must be YYYY-MM-DD format!
 date: 2022-01-27
 labels:
-  - Online Forum
   - Stack Overflow
   - Learning
 ---
