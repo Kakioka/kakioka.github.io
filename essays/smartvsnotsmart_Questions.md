@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Programming and me
+title: Smart vs !Smart Questions
 # All dates must be YYYY-MM-DD format!
 date: 2022-01-27
 labels:
