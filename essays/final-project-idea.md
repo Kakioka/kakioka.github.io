@@ -2,7 +2,8 @@
 ---
 layout: essay
 type: essay
-title: "Final Project Idea"
+title: Final Project Idea
+# All dates must be YYYY-MM-DD format!
 date: 2022-03-29
 labels:
   - Software Engineering
