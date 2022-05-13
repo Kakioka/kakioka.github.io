@@ -1,3 +1,14 @@
+---
+layout: essay
+type: essay
+title: Semicolon
+# All dates must be YYYY-MM-DD format!
+date: 2022-05-12
+labels:
+  - Learning
+  - Reminiscing
+  - Review
+---
 # Semicolon
 In programming, the semicolon is the end of a line of code. As the say, every end is a beginning. As we arrive at this beginning, I'd like to reminisce about some of the things we've learned along the way. 
 
